@@ -1,0 +1,28 @@
+body{
+	background-color: #5493ff;
+}
+
+#title{
+    color: azure;
+    margin: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#login-form{
+    border-radius: 25px;
+    border: 2px solid #3f85fc;
+    background-color: #4489ff;
+    padding: 20px; 
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+a{
+    color: white;
+}
+
+#error{
+    color: #440000;
+}
